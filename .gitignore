@@ -1,4 +1,5 @@
 .env
+mysqldata/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/phpstorm,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=phpstorm,windows,macos,linux
